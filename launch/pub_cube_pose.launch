@@ -1,0 +1,3 @@
+<launch>
+  <node name="pub_cube_pose" pkg="vention_take_home" type="pub_cube_pose" output="screen" />
+</launch>

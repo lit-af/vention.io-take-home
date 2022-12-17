@@ -1,0 +1,3 @@
+<launch>
+  <node name="pick_place_poc" pkg="vention_take_home" type="pick_place_poc" output="screen" />
+</launch>
